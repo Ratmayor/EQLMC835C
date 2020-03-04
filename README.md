@@ -1,0 +1,2 @@
+# EQLMC835C
+Firmware for LMC835C and PIC16F877A using CCS PIC-C
